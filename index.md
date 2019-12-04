@@ -24,7 +24,6 @@
       <ul>
         <li> des supports de cours,</li>
         <li> des documents liés à mon activité de recherche,</li>
-        <li> des documents liés à l'agrégation de mathématiques.</li>
       </ul>
       <p> Mon <a href="./CV.pdf" class="type2"> CV </a>.</p>
     </div>

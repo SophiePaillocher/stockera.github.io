@@ -2,7 +2,6 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <link href="style2.css" rel="stylesheet" media="all" type="text/css">
-    <title> Page personnelle d'Arnaud Stocker</title>
   </head>
   <body>
     <nav class="menu" style="margin-top: -16px; margin-left: -16px; margin-right: -16px">
